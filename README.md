@@ -1,6 +1,6 @@
 # Bengaluru Ecological Stress Peaks
 
-This project identifies ecological stress peaks in Bengaluru by combining vegetation loss, built-up expansion, water loss, and heat gain into a composite ecological stress index. The original code reference from Benjamin Bartholet is at https://github.com/telohtrab/heat-mountains
+This project identifies ecological stress peaks in Bengaluru by combining vegetation loss, built-up expansion, water loss, and heat gain into a composite ecological stress index. The original code reference from Benjamin Bartholet is at https://github.com/telohtrab/heat-mountains.
 
 ## What this repository contains
 
