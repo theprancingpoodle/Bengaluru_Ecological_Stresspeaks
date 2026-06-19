@@ -1,0 +1,20 @@
+{
+  "title": "Bengaluru Ecological Stress Index",
+  "formula": {
+    "lst_gain_1995": 0.3,
+    "present_lst_anomaly": 0.2,
+    "ndvi_loss_1995": 0.2,
+    "water_decline_1995": 0.15,
+    "ndbi_gain_1995": 0.15
+  },
+  "component_definitions": {
+    "lst_gain_1995": "LST present median minus LST 1990s median",
+    "present_lst_anomaly": "present LST anomaly relative to present city mean",
+    "ndvi_loss_1995": "NDVI 1990s minus NDVI present",
+    "water_decline_1995": "MNDWI 1990s minus MNDWI present",
+    "ndbi_gain_1995": "NDBI present minus NDBI 1990s"
+  },
+  "zscore": "median-centered standard deviation z-score, clipped to [-3, 3]",
+  "normalization_for_heightmap": "robust percentile scale 2-98 = (-1.377422752380371, 1.3739040660858155)",
+  "note": "Height represents composite ecological stress, not real elevation."
+}

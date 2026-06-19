@@ -1,0 +1,18 @@
+{
+  "crs": "EPSG:32643",
+  "bounds": [
+    765570.0,
+    1418490.0,
+    801810.0,
+    1456500.0
+  ],
+  "width": 1208,
+  "height": 1267,
+  "formula": {
+    "lst_gain_1995": 0.3,
+    "present_lst_anomaly": 0.2,
+    "ndvi_loss_1995": 0.2,
+    "water_decline_1995": 0.15,
+    "ndbi_gain_1995": 0.15
+  }
+}
